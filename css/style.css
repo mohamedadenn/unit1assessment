@@ -1,0 +1,39 @@
+    #wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #counter {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+        margin-bottom: 0;
+        font-style: bold;
+    }
+    
+    button {
+        padding: 22px;
+        font-size: 20px;
+        margin: 10px;
+        background-color: lightgray;
+        border-color: lightgray;
+        border-radius: 10%;
+        color: white;
+    }
+    
+    button:hover {
+        background-color: white;
+        color: lightgray;
+    }
+    
+    input {
+        padding: 15px;
+        margin: 10px;
+        width: 60px;
+        font-size: 30px;
+        text-align: center;
+        border: 4px solid lightgray;
+        border-radius: 10%;
+    }
